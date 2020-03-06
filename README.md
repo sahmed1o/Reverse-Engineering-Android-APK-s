@@ -12,7 +12,7 @@ https://ibotpeaches.github.io/Apktool
 Installation instructions can be found here:
 https://ibotpeaches.github.io/Apktool/install/
 
-Instructions from apktool git:
+<b> Instructions from apktool git:</b> 
 1. Download Windows wrapper script (Right click, Save Link As apktool.bat)
 2. Download apktool-2 from here: https://bitbucket.org/iBotPeaches/apktool/downloads/
 3. Rename downloaded jar to apktool.jar
@@ -20,7 +20,7 @@ Instructions from apktool git:
 5. If you do not have access to C://Windows, you may place the two files anywhere then add that directory to your Environment Variables System PATH variable.
 6. Try running apktool via command prompt
 
-Decompiling APK from directory, in this case the directory is titled "ReverseEngineering":
+<b> Decompiling APK from directory, in this case the directory is titled "ReverseEngineering":</b> 
 <div style="background: #000000; color: #00ff00; overflow: auto; width: auto; border: solid gray; border-width: .1em .1em .1em .8em; padding: .2em .6em;">
 <pre style="margin: 0;">
 D:\ReverseEngineering > apktool.jar d fileName.apk
@@ -28,14 +28,14 @@ D:\ReverseEngineering > apktool.jar d fileName.apk
 </div>
 
 
-After modifications to recompile folder to APK from ReverseEngineering directory:
+<b> After modifications to recompile folder to APK from ReverseEngineering directory:</b> 
 <div style="background: #000000; color: #00ff00; overflow: auto; width: auto; border: solid gray; border-width: .1em .1em .1em .8em; padding: .2em .6em;">
 <pre style="margin: 0;">
 D:\ReverseEngineering > apktool.jar b fileName
 </pre>
 </div>
 
-Signing the apk if not signed:
+<b> Signing the apk if not signed:</b> 
 <br>
 1. check if apk is signed:
 <div style="background: #000000; color: #00ff00; overflow: auto; width: auto; border: solid gray; border-width: .1em .1em .1em .8em; padding: .2em .6em;">
@@ -46,14 +46,14 @@ Signing the apk if not signed:
 
 2. if not signed use the keytool in the java bin directory to sign apk:
 <br>
--create key signature
+2.1. create key signature
 <div style="background: #000000; color: #00ff00; overflow: auto; width: auto; border: solid gray; border-width: .1em .1em .1em .8em; padding: .2em .6em;">
 <pre style="margin: 0;">
 "C:\Program Files\Java\jdk1.8.0_152\bin\keytool" -genkey -keystore keyName.keystore -validity 1000 -alias aliasName
 </pre>
 </div>
 
--use jar signer to sign the apk with the key signature
+2.2. use jar signer to sign the apk with the key signature
 <div style="background: #000000; color: #00ff00; overflow: auto; width: auto; border: solid gray; border-width: .1em .1em .1em .8em; padding: .2em .6em;">
 <pre style="margin: 0;">
 "C:\Program Files\Java\jdk1.8.0_152\bin\jarsigner.exe" -keystore keyName.keystore -verbose fileName.apk aliasName
