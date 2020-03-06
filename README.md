@@ -2,7 +2,7 @@
 
 (Windows)
 
-Download ApkTool, its need to reverse engineer the apk files, link is here:
+Download ApkTool, its needed to reverse engineer the apk files, link is here:
 https://ibotpeaches.github.io/Apktool
 
 Installation instructions here:
