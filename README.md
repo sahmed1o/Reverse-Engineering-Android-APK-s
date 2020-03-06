@@ -63,7 +63,7 @@ D:\ReverseEngineering > apktool.jar b fileName
 <hr>
 
 <b>To find the Key Alias and Certificate Fingerprints: </b>
-Copy keytool.exe and keystore into C:\Program Files\Java\jdk1.8.0_152\bin directory:
+Copy keytool.exe and keystore into C:\Program Files\Java\jdk1.8.0_152\bin directory.
 Open the command prompt from directory and use the following command: 
 <div style="background: #000000; color: #00ff00; overflow: auto; width: auto; border: solid gray; border-width: .1em .1em .1em .8em; padding: .2em .6em;">
 <pre style="margin: 0;">
