@@ -1,6 +1,6 @@
 # Reverse-Engineering-Android-APK-s
 
-This is a reference to reverse engineer personal applications built, in order to do modifications, as well as see the source of android applications built by others to check for malicious content.
+This is a reference to reverse engineer personal applications built in order to do modifications, as well as to check the source of android applications built by others to determine if theirs any malicious content stored in the apps.
 
 (Windows)
 
