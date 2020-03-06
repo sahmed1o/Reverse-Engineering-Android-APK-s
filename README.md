@@ -4,7 +4,7 @@ This is a reference to reverse engineer personal applications built in order to 
 
 The include files in this repo are the tools needed to reverse engineer the APK's, these can be downloaded from the official sources. 
 
-(Windows)
+<b>(Windows)</b>
 
 Download ApkTool, its needed to reverse engineer the apk files, link is here:
 https://ibotpeaches.github.io/Apktool
