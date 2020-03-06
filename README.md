@@ -36,6 +36,7 @@ D:\ReverseEngineering > apktool.jar b fileName
 </div>
 
 Signing the apk if not signed:
+<br>
 1. check if apk is signed:
 <div style="background: #000000; color: #00ff00; overflow: auto; width: auto; border: solid gray; border-width: .1em .1em .1em .8em; padding: .2em .6em;">
 <pre style="margin: 0;">
@@ -44,6 +45,7 @@ Signing the apk if not signed:
 </div>
 
 2. if not signed use the keytool in the java bin directory to sign apk:
+<br>
 -create key signature
 <div style="background: #000000; color: #00ff00; overflow: auto; width: auto; border: solid gray; border-width: .1em .1em .1em .8em; padding: .2em .6em;">
 <pre style="margin: 0;">
