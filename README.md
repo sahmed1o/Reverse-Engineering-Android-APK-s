@@ -2,6 +2,8 @@
 
 This is a reference to reverse engineer personal applications built in order to do modifications, as well as to check the source of android applications built by others to determine if theirs any malicious content stored in the apps.
 
+The include files in this repo are the tools needed to reverse engineer the APK's, these can be downloaded from the official sources. 
+
 (Windows)
 
 Download ApkTool, its needed to reverse engineer the apk files, link is here:
