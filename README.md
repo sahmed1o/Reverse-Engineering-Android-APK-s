@@ -28,7 +28,7 @@ D:\ReverseEngineering > apktool.jar d fileName.apk
 </div>
 
 
-<b> After modifications to recompile folder to APK from ReverseEngineering directory:</b> 
+<b> After modifications are done, to recompile folder to APK from ReverseEngineering directory use the following command with apktool:</b> 
 <div style="background: #000000; color: #00ff00; overflow: auto; width: auto; border: solid gray; border-width: .1em .1em .1em .8em; padding: .2em .6em;">
 <pre style="margin: 0;">
 D:\ReverseEngineering > apktool.jar b fileName
