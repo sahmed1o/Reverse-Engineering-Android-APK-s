@@ -16,7 +16,7 @@ Instructions from apktool git:
 5. If you do not have access to C://Windows, you may place the two files anywhere then add that directory to your Environment Variables System PATH variable.
 6. Try running apktool via command prompt
 
-Decompiling APK from directory, in this case it was ReverseEngineering:
+Decompiling APK from directory, in this case the directory is titled "ReverseEngineering":
 <div style="background: #000000; color: #00ff00; overflow: auto; width: auto; border: solid gray; border-width: .1em .1em .1em .8em; padding: .2em .6em;">
 <pre style="margin: 0;">
 D:\ReverseEngineering > apktool.jar d fileName.apk
