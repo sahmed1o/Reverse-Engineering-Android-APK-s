@@ -14,7 +14,7 @@ https://ibotpeaches.github.io/Apktool/install/
 
 Instructions from apktool git:
 1. Download Windows wrapper script (Right click, Save Link As apktool.bat)
-2. Download apktool-2 (find newest here)
+2. Download apktool-2 from here: https://bitbucket.org/iBotPeaches/apktool/downloads/
 3. Rename downloaded jar to apktool.jar
 4. Move both files (apktool.jar & apktool.bat) to your Windows directory (Usually C://Windows)
 5. If you do not have access to C://Windows, you may place the two files anywhere then add that directory to your Environment Variables System PATH variable.
