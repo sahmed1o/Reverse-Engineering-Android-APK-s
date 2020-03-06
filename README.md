@@ -5,7 +5,7 @@
 Download ApkTool, its needed to reverse engineer the apk files, link is here:
 https://ibotpeaches.github.io/Apktool
 
-Installation instructions here:
+Installation instructions can be found here:
 https://ibotpeaches.github.io/Apktool/install/
 
 Instructions from apktool git:
