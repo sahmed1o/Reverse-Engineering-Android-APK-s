@@ -1,5 +1,7 @@
 # Reverse-Engineering-Android-APK-s
 
+This is a reference to reverse engineer not just reverse engineer personal applications built to do modifications but also to see the source of android applications built by others to check for malicious content.
+
 (Windows)
 
 Download ApkTool, its needed to reverse engineer the apk files, link is here:
